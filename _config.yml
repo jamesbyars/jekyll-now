@@ -7,7 +7,7 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  https://jamesbyars.github.io/
+url:        	  https://jamesbyars.github.io
 
 # Owner/author information
 owner:
@@ -18,7 +18,7 @@ owner:
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jbyars4ku
-  facebook:       hmfaysal
+  facebook:       
   github:         jamesbyars
   instagram:      
   # For Google Authorship https://plus.google.com/authorship
