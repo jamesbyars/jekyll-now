@@ -5,8 +5,6 @@ title: Creature of Habit - My Purpose and Vision
 
 # I love patterns
 
-## Creature of Habit
-
 I would call myself a creature of habit - just listen to my morning routine...
 
 * Wake up, walk downstairs
