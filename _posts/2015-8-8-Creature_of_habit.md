@@ -3,6 +3,8 @@ layout: post
 title: Creature of Habit - My Purpose and Vision
 ---
 
+Hi, my name is James Byars...and I love patterns.
+
 # I love patterns
 
 I would call myself a creature of habit - just listen to my morning routine...
