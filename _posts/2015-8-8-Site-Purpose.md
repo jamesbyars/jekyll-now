@@ -7,6 +7,7 @@ category: articles
 tags: [Purpose, Vision, Habit]
 comments: true
 share: true
+featured: true
 ---
 
 # I love patterns
