@@ -4,7 +4,7 @@ title: Creature of Habit
 description: I would call myself a creature of habit - just listen to my morning routine...
 modified: 2015-8-8
 category: articles
-tags: [Habits, Software]
+tags: [habits software]
 comments: true
 share: true
 featured: true

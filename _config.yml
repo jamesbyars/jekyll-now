@@ -121,6 +121,8 @@ prose:
               value: interesting
             - name: "Android"
               value: android
+            - name: "Running"
+              value: running
           alterable: true
       - name: "tags"
         field:

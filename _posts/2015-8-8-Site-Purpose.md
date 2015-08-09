@@ -4,7 +4,7 @@ title: My Purpose and Vision
 description: Purpose and why I'm doing what I am doing
 modified: 2015-8-8
 category: articles
-tags: [Purpose, Vision]
+tags: [purpose vision]
 comments: true
 share: true
 featured: true
