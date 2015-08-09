@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creature of Habit - My Purpose and Vision
-description: 
+description: Purpose and why I'm doing what I am doing
 modified: 2015-8-8
 category: articles
 tags: [Purpose, Vision, Habit]
