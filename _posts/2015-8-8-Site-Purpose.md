@@ -11,7 +11,7 @@ share: true
 
 # I love patterns
 
-## Creature of Habit
+### Creature of Habit
 
 I would call myself a creature of habit - just listen to my morning routine...
 
@@ -26,13 +26,13 @@ I would call myself a creature of habit - just listen to my morning routine...
 To me, this makes logical sense.  I know that from the time I wake up until the time I leave 
 for work 35 minutes go by, and I know it works - I've been doing it for years!
 
-## I'm not alone!
+### I'm not alone!
 
 I'm not the only one who finds comfort in patterns.  As a Software Engineer I study and 
 implement design patters.  Design Patters provide a common, proven, peer reviewed solution 
 to common problems
 
-## Purpose
+### Purpose
 
 Through my daily (and nightly) work I encounter problems.  Keeping with software engineer 
 style, Google.com is my best friend.  What I find time and time again are StackOverflow 
