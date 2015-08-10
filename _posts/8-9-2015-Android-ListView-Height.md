@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Android ListView Set Height Properly
-description: I would call myself a creature of habit - just listen to my morning routine...
-modified: 2015-8-9
+description: Proper way to set ListView height to fill its container
+modified: 2015-9-8
 category: android
 tags: [Android, Software, ListView]
 comments: true
@@ -10,10 +10,21 @@ share: true
 featured: true
 ---
 
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
+
+{% highlight xml %}
+
+	<LinearLayout
+   		xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="match_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical" >
+
+    	<ListView
+        	android:id="@+id/android:list"
+	        android:layout_width="match_parent"
+    	    android:layout_height="0dp"
+        	android:layout_weight="1"/>
+
+	</LinearLayout>
+	
 {% endhighlight %}
