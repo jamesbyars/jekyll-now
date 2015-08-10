@@ -12,7 +12,6 @@ featured: true
 
 
 {% highlight xml %}
-
 	<LinearLayout
    		xmlns:android="http://schemas.android.com/apk/res/android"
     	android:layout_width="match_parent"
@@ -26,5 +25,4 @@ featured: true
         	android:layout_weight="1"/>
 
 	</LinearLayout>
-	
 {% endhighlight %}
