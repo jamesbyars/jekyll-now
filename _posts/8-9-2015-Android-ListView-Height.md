@@ -21,16 +21,5 @@ parent container.
 
 # The layout
 
-{% highlight XML %}
-	<LinearLayout
-		xmlns:android="http://schemas.android.com/apk/res/android"
-		android:layout_width="match_parent"
-		android:layout_height="fill_parent"
-		android:orientation="vertical" >
-    	<ListView
-			android:id="@+id/android:list"
-			android:layout_width="match_parent"
-			android:layout_height="0dp"
-			android:layout_weight="1"/>
-	</LinearLayout>
-{% endhighlight %}
+<script src="https://gist.github.com/jamesbyars/7acce25a885bf1c6efb5.js"></script>
+
