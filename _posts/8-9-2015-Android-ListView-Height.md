@@ -10,8 +10,9 @@ share: true
 featured: true
 ---
 
+# The layout
 
-{% highlight xml %}
+{% highlight XML %}
 	<LinearLayout
    		xmlns:android="http://schemas.android.com/apk/res/android"
     	android:layout_width="match_parent"
@@ -26,3 +27,5 @@ featured: true
 
 	</LinearLayout>
 {% endhighlight %}
+
+# Java
