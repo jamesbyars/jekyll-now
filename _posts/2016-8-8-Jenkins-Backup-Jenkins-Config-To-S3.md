@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Jenkins: Jenkins Automated Backup To AWS S3
-description: Creating a Jenkins job that backs up all Jenkins jobs to AWS S3
-modified: 2016-8-8
+title: Jenkins Automated Backup To AWS S3
+description: Creating a Jenkins job to AWS S3
+modified: 2016-08-08
 category: articles
-tags: [Jenkins, Automation, Software, Cloud]
+tags: [Jenkins, Automation, Cloud]
 comments: true
 share: true
 featured: true
