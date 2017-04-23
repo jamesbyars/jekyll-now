@@ -24,3 +24,5 @@ chart: true
 
 
 About me.
+
+"Never satisfied and always thirsting for knowledge and continuous improvement" - me, about me
