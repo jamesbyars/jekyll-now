@@ -11,7 +11,7 @@ featured: true
 ---
 
 While visiting Memphis, TN our Uber driver from the night before told us about 
-[Gus's World Famous Fried Chicken]() and the guy seemed to know what he was 
+[Gus's World Famous Fried Chicken](http://gusfriedchicken.com) and the guy seemed to know what he was 
  talking about so we decided to give it a try.
  
 The outside of the building spoke to me, I don't like really fancy places, I care 
