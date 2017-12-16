@@ -6,7 +6,7 @@ description: "My first marathon was the 2017 Chicago Marathon.  It was an
 modified: 2017-10-09
 category: articles
 tags: [Running, Continuous Improvement]
-imagefeature: images/2017-chicago-marathon/chicago-marathon-cover.jpg
+imagefeature: /images/2017-chicago-marathon/chicago-marathon-cover.jpg
 comments: true
 share: true
 ---
