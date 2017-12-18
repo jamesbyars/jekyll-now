@@ -92,4 +92,4 @@ feet, running, for 5 hours and 15 minutes is a lot.
 
 I did it.
 
-![CertificateOfCompletion]({{ site.url }}/images/2017-chicago-marathon/2017-Chicago-Marathon-Finisher-Certificate.pdf)
+![CertificateOfCompletion]({{ site.url }}/images/2017-chicago-marathon/2017-Chicago-Marathon-Finisher-Certificate.png)
