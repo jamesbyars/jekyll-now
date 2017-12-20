@@ -12,7 +12,7 @@ share: true
 ---
 
 I ran my first marathon in 2017 - it was the Bank of America Chicago Marathon and
-it was incredible.  I am going to write a little about the experience so others
+it was incredible.  I am going to write a little about the experience 
 so I remember it better and so others can enjoy.
 
 # Why did I decide to do this?
@@ -80,7 +80,7 @@ for extended periods would have on the brain.  I persevered.
 
 Finally, I see mile 24 coming up.  I have been doing this run/walk thing for
 a few hours now over nearly 10 miles.  I wanted to finish strong.  I was not
-going to walk across that finish line.  I started to run, craps and all, and
+going to walk across that finish line.  I started to run, cramps and all, and
 I did not stop until I crossed that line.
 
 # Post Race
