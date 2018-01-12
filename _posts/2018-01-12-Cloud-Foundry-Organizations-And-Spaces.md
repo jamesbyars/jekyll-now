@@ -5,7 +5,7 @@ description: ""
 modified: 2018-01-12
 category: articles
 tags: []
-imagefeature: /cloud-foundry/some-image.jpg
+imagefeature: /cloud-foundry/cf-logo.png
 comments: true
 share: true
 ---
@@ -17,7 +17,7 @@ some time in the future.  This article will focus on a two concepts
 provided by Cloud Foundry, Organizations and Spaces, to assist development 
 organizations with application management.
 
-![CloudFormationLogo]({{ site.url }}/images/cloud-formation/cf-logo.svg)
+![CloudFormationLogo]({{ site.url }}/images/cloud-formation/cf-logo.png)
 
 # Organizations
 
