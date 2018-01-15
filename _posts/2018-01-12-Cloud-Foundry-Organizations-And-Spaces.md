@@ -36,7 +36,7 @@ segment the departments of the company into CF Organizations:
 ### Benefits of using Cloud Foundry Organizations
 
 Each [Cloud Foundry](https://cloudfoundry.org/) organization has its 
-own domain.  This feature can be used to segment organizations 
+own domain.  This feature can be used to segment an organizations 
 services.
 
 Organizations are setup to allow individual users to have access to the 
@@ -47,8 +47,8 @@ change in the Business Insurance organization (unless said permission
 was explicitly set, of course). 
 
 [Cloud Foundry](https://cloudfoundry.org/) organizations are configurable 
-to set resource limits to prevent services in one organization to hog 
-all resources causing an issue with another organization.  Additionally, 
+to set resource limits to prevent services in one organization from hogging 
+resources, causing an issue with another organization.  Additionally, 
 resource consumption can be monitored to make allocation decisions.
 
 ![CloudFoundryLogo]({{ site.url }}/images/cloud-foundry/cf-orgs-spaces.png)
@@ -59,7 +59,7 @@ Applications and services deployed to
 [Cloud Foundry](https://cloudfoundry.org/) (CF) are scoped to 
 spaces with each organization containing one to many spaces.
 
-Using my previous example of a Insurance Company.  Within each organization 
+Using my previous example of an Insurance Company.  Within each organization 
 we would organize our services into spaces.  Each space may contain a 
 component of that particular department.  So for the Commercial Insurance 
 department we may have a space for:
@@ -70,8 +70,8 @@ department we may have a space for:
 * Analytics
 * etc... 
 
-Spaces allow for finer grained authentication and authorization security.  
-Each user can be assigned a role that grants permissions for specific 
+Spaces allow for finer grained authentication and authorization security.  Each 
+user can be assigned a role that grants permissions for specific 
 activities.  For example, a user with the "Space Developer" and another 
 user with the "Space Auditor" roles can both view all the same things, 
 however the user with "Space Developer" has additional permissions to 
