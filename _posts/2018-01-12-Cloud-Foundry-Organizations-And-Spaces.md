@@ -7,6 +7,7 @@ category: articles
 tags: [cloud, software]
 comments: true
 share: true
+featured: true
 ---
 
 [Cloud Foundry](https://cloudfoundry.org/) is an open source 
