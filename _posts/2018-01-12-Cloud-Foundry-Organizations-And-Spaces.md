@@ -51,6 +51,8 @@ to set resource limits to prevent services in one organization to hog
 all resources causing an issue with another organization.  Additionally, 
 resource consumption can be monitored to make allocation decisions.
 
+![CloudFoundryLogo]({{ site.url }}/images/cloud-foundry/cf-orgs-spaces.png)
+
 # Spaces
 
 Applications and services deployed to 
