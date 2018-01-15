@@ -76,8 +76,18 @@ however the user with "Space Developer" has additional permissions to
 create/edit/delete/rename services, applications, and routes.
 
 To view all roles and permissions for an organization have a look at the 
-matrix at [Roles and Permissions for Active Orgs](http://docs.cloudfoundry.org/concepts/roles.html#roles)
+matrix at [Roles and Permissions for Active Orgs](http://docs.cloudfoundry.org/concepts/roles.html#roles).
 
 # Cloud Foundry Organizations and Spaces Summary
 
-[Cloud Foundry](https://cloudfoundry.org/) 
+[Cloud Foundry](https://cloudfoundry.org/) organizations and spaces provide 
+ways to organize compute resources in natural ways.  There are clear 
+benefits to creating separate organizations for departments in a large 
+organization.  Adding the ability to group resources into distinct 
+spaces provides simplified tools for monitoring and security.  Users are 
+created at the organization level to allow general access to the 
+organization in Cloud Foundry.  Each space can create its own roles 
+and permissions to create more fine grained access controls. 
+
+The concept of spaces encourages modular application design with low 
+coupling.  
