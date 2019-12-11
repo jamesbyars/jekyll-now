@@ -10,7 +10,7 @@ share: true
 featured: true
 ---
 
-## 5 Things Software Engineers Must Consider With Every Change
+# 5 Things Software Engineers Must Consider With Every Change
 
 World class engineering organizations must be able to deliver system changes to 
 production in minutes, not months, weeks, or days.  Along the road to attaining 
@@ -22,7 +22,8 @@ concepts: **Continuous Delivery, Built-in Quality, Consider the Whole System,
 Continuous Monitoring, You Build It - You Run It**.  These considerations are by 
 no means complete, but will serve as a solid foundation for progress.
 
-### **Continuous Delivery** - How could we deploy changes without releasing them?
+## Continuous Delivery - 
+### How could we deploy changes without releasing them?
 
 Technology delivery methods have advanced far beyond traditional development 
 and deployment models.  Building the engineering and business capacity to 
@@ -47,18 +48,22 @@ migrated do not need to be made visible or available to clients.
 does not, and should not, require a deployment.
 * <u>Release</u> - I prefer to use release and Continuous Delivery interchangeably.
 
-#### Tips/Tricks/Tools
+### Tips/Tricks/Tools
 
 * Feature flags - Java - [Togglz.org](https://www.togglz.org)
 * [Blue/Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) 
 * [Canary releases](https://martinfowler.com/bliki/CanaryRelease.html?ref=wellarchitected)
 
-### **Built-in Quality** - How can we prove the solution works?
+
+## Built-in Quality - 
+### How can we prove the solution works?
 Consider the following example from a more established engineering domain, Civil 
 Engineering.  A bridge must be built to cross a large creek/small river.  What 
 *doesn’t happen* is the engineer takes an educated guess at what needs to be 
 done, builds the bridge, and then walks/drives over it to test that it will 
-stand.  The engineer starts by understanding the constraints and forces at 
+stand.  
+
+The engineer starts by understanding the constraints and forces at 
 play in the environment in which the bridge lives:
 
 * How much weight the bridge must support at any given time?
@@ -89,7 +94,9 @@ quality assurance.  Quality must be *built in* to the change.
 * Useful techniques include Test Driven Development (TDD), Behavior 
 Driven Development (BDD), etc...
 
-### **Consider the Whole System** - How will the change integrate with the system and what impact could it have?
+
+## Consider the Whole System - 
+### How will the change integrate with the system and what impact could it have?
 
 Considering the whole system requires engineers to take a step back and 
 evaluate not only how the change will impact their area, but consider how 
@@ -106,7 +113,8 @@ A few potential questions to ask:
 * Who might need to be aware of the change?
 * How might the change affect the sales team or prospects?
 
-#### Tools/Tips/Techniques
+
+### Tools/Tips/Techniques
 
 Integration is difficult, especially in a microservices architecture.  Yes, 
 API’s should have clearly defined interfaces, be predictable, and isolate 
@@ -123,7 +131,8 @@ each of the scenarios are handled.  The same procedure can be used for
 message queues/streams.  Sample messages are created and included in test 
 resources and each build of the system checks that all contracts are met.
 
-### **You Build It, You Run It** - How will teams be the first to know if a change fails in production?
+## You Build It, You Run It - 
+### How will teams be the first to know if a change fails in production?
 
 Accountability in software engineering creates a culture of ownership.  When 
 software engineers feel ownership of their product; quality, communication, 
@@ -137,14 +146,16 @@ Engineering teams can respond in near real time to feedback, learning as
 they go how best to engineer their services to reduce operational noise and 
 improve service reliability.
 
-#### Tips/Tricks/Tools
+### Tips/Tricks/Tools
 
 * Create team (product) level dashboards.
 * Failures & errors trigger alerts to teams as necessary.
 * Track and classify failures to identify common failure points.  Prioritize 
 and address these issues in addition to regular work.
 
-### **Continuous Monitoring** - Are there any team (product) level KPIs to measure the change impact? 
+
+## Continuous Monitoring - 
+### Are there any team (product) level KPIs to measure the change impact? 
 
 Teams that run their own services, deploy frequently, and build in quality 
 will need to see how their applications are performing in production.  
@@ -158,7 +169,7 @@ appropriate alerting should a threshold be met.  Dashboards include
 information such as request throughput, transaction times, and other 
 operational measures.
 
-#### Tips/Tricks/Tools
+### Tips/Tricks/Tools
 
 * Each team owns their own dashboard and metrics **in plain view**.  These 
 metrics, or a subset, can be flowed to enterprise monitoring tools as well.
