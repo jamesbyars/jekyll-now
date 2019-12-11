@@ -48,7 +48,7 @@ migrated do not need to be made visible or available to clients.
 does not, and should not, require a deployment.
 * <u>Release</u> - I prefer to use release and Continuous Delivery interchangeably.
 
-### Tips/Tricks/Tools
+#### Tips/Tricks/Tools
 
 * Feature flags - Java - [Togglz.org](https://www.togglz.org)
 * [Blue/Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html) 
@@ -88,6 +88,8 @@ constraints and engineering a solution.  Each of the constraints should
 be tested as we go to prevent a faulty component from entering a 
 production environment.
 
+#### Tips/Tricks/Tools
+
 * Many facets to this concept, unit, integration, and functional tests.
 * Quality cannot be *added* on top once a change is complete, that is 
 quality assurance.  Quality must be *built in* to the change.  
@@ -114,7 +116,7 @@ A few potential questions to ask:
 * How might the change affect the sales team or prospects?
 
 
-### Tools/Tips/Techniques
+#### Tips/Tricks/Tools
 
 Integration is difficult, especially in a microservices architecture.  Yes, 
 API’s should have clearly defined interfaces, be predictable, and isolate 
@@ -146,7 +148,7 @@ Engineering teams can respond in near real time to feedback, learning as
 they go how best to engineer their services to reduce operational noise and 
 improve service reliability.
 
-### Tips/Tricks/Tools
+#### Tips/Tricks/Tools
 
 * Create team (product) level dashboards.
 * Failures & errors trigger alerts to teams as necessary.
@@ -169,7 +171,7 @@ appropriate alerting should a threshold be met.  Dashboards include
 information such as request throughput, transaction times, and other 
 operational measures.
 
-### Tips/Tricks/Tools
+#### Tips/Tricks/Tools
 
 * Each team owns their own dashboard and metrics **in plain view**.  These 
 metrics, or a subset, can be flowed to enterprise monitoring tools as well.
